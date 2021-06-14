@@ -1,5 +1,5 @@
 # Fancy Button
-Create First Our Fancy Button
+Fancy Button for Our Novel App.
 
 ## Contributors
 
