@@ -12,6 +12,6 @@ Create First Our Fancy Button
         <td align="center"><a href="#"><img
                 src="https://avatars.githubusercontent.com/u/20496196?v=4" width="90px;"
                 alt="Saeed Hassani Borzadaran"/><br/><sub><b>Saeed</b></sub></a><br/><a
-                 title="Code">⚠💻</a></td>
+                 title="Code">⚠</a></td>
     </tr>
 </table>
